@@ -1,0 +1,216 @@
+@charset "utf-8";
+.container {
+	width: 100%;
+	height: 300px;
+	font-family: "宋体";
+	font-size: 36px;
+}
+.div_main {
+	font-family: sans-serif;
+	font-size: 36px;
+	color: #000;
+	float: left;
+	height: 97.5%;
+	width: 100%;
+	padding-top: 2.5%;
+}
+/* .tabl {
+	font-family: sans-serif;
+	font-size: 0.72rem;
+	line-height:0.75rem;
+	color: #343538;
+} */
+.z1 {
+	font-family: "宋体";
+	font-size: 36px;
+	height: 63px;
+	width: 99%;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	padding-top: 17px;
+}
+/* body{
+	font-family: "Helvetica Neue",Helvetica,sans-serif;
+    font-size: .72rem;
+    line-height: 1.5;
+    color: #343538;
+    overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+}
+ */
+p{
+	font-family: "宋体";
+	font-size: 35px;
+	color: #000;
+}
+
+.tt {
+	font-family: "宋体";
+	font-size: 18px;
+	color: #FFF;
+	background-color: #000;
+	height: 80px;
+}
+
+.kuangdaxiao {
+	height: 60px;
+	width: 150px;
+	font-size: 36px;
+	background-color: #00C640;
+	border-radius: 15% 15% 15% 15%;
+	color: #FFF;
+}
+
+
+
+.zhongjian {
+	height: 400px;
+	background-color: #FFFFFF;
+}
+.photo {
+	float: left;
+	width: 30%;
+	height: 300px;
+}
+
+
+.z2 {
+	font-family: "宋体";
+	font-size: 33px;
+}
+
+.zz {
+	font-family: "宋体";
+	font-size: 23px;
+	padding-right:10px;
+}
+
+/* .content {
+	float: right;
+	width: 70%;
+	height: 300px;
+} */
+
+.tabl {
+	width: 100%;
+	 font-family: "Helvetica Neue",Helvetica,sans-serif;
+	font-size: 0.82rem;
+	line-height:0.88rem; 
+	color: #404040;
+	background-color: #FFFFFF;
+	/* margin-right: 0.6rem;
+	margin-bottom: 0.5rem;
+	margin-left: 0.6rem; */
+}
+
+
+.container {
+	width: 100%;
+	height: 300px;
+	font-family: "宋体";
+	font-size: 36px;
+	padding-top: 10px;
+}
+.tab2 {
+	width: 90%;
+	height: 5.6rem;
+	border-radius: 3% 3% 3% 3%;
+	font-size: 36px;
+	background-color: #FFFFFF;
+}
+
+.c1 {
+	font-family: "宋体";
+	font-size: 36px;
+}
+
+.t2 {
+	font-size: 40px;
+	height: 100%;
+	width: 100%;
+	background-color: #FFFFFF;
+	font-family: "宋体";
+	color: #000;
+}
+#mainBody {
+              width:100%;
+              height:100%;
+              position:absolute;
+              z-index:-1;
+             }
+             
+.cloud {
+             position:absolute;
+             top:0px;
+             left:0px;
+             width:100%;
+             height:100%;
+            
+             z-index:1;
+             opacity:0.5;
+             
+            }
+            
+            
+#cloud2 {
+            z-index:2;
+            }
+            
+            
+.logintop{height:47px; position:absolute; top:0; background:url(../images/loginbg1.png) repeat-x;z-index:100; width:100%;}
+.logintop span{color:#fff; line-height:47px; background:url(../images/loginsj.png) no-repeat 21px 18px; text-indent:44px; color:#afc5d2; float:left;}
+.logintop ul{float:right; padding-right:30px;}
+.logintop ul li{float:left; margin-left:20px; line-height:47px;}
+.logintop ul li a{color:#afc5d2;}
+.logintop ul li a:hover{color:#fff;}
+.loginbody{background:url(../images/loginbg3.png) no-repeat center center; width:100%; height:585px; overflow:hidden; position:absolute; top:47px;}
+.systemlogo{background:url(../images/) no-repeat center;width:100%; height:71px; margin-top:75px;}
+.loginbox{width:692px; height:336px; background:url(../images/logininfo.png) no-repeat; margin-top:30px;}
+.loginbox ul{margin-top:88px; margin-left:285px;}
+.loginbox ul li{margin-bottom:25px;}
+.loginbox ul li label{color:#687f92; padding-left:25px;}
+.loginbox ul li label a{color:#687f92;}
+.loginbox ul li label a:hover{color:#6eb0b0;}
+.loginbox ul li label input{margin-right:5px;}
+.loginuser{width:299px; height:48px; background:url(../images/loginuser.png) no-repeat; border:none; line-height:48px; padding-left:44px; font-size:14px; font-weight:bold;}
+.loginpwd{width:299px; height:48px; background:url(../images/loginpassword.png) no-repeat; border:none;line-height:48px; padding-left:44px; font-size:14px; color:#90a2bc;}
+.loginbtn{width:111px;height:35px; background:url(../images/buttonbg.png) repeat-x; font-size:14px; font-weight:bold; color:#fff;cursor:pointer; line-height:35px;}
+.loginbm{height:50px; line-height:50px; text-align:center; background:url(../images/loginbg2.png) repeat-x;position:absolute; bottom:0; width:100%; color:#0b3a58;}
+.loginbm a{font-weight:bold;color:#0b3a58;}
+.loginbm a:hover{color:#fff;}
+
+
+
+.header{height:88px;}
+.topleft{height:88px;background:url(../images/topleft.jpg) no-repeat;float:left; width:300px;}
+.topleft img{margin-top:12px;margin-left:10px;}
+.topright{height:88px;background:url(../images/topright.jpg) no-repeat right;float:right;}
+.nav{float:left;}
+.nav li{float:left;width:87px;height:88px; text-align:center;}
+.nav li a{display:block;width:87px;height:88px;-moz-transition: none; transition: background-color 0.3s linear; -moz-transition: background-color 0.3s linear; -webkit-transition: background-color 0.3s linear; -o-transition: background-color 0.3s linear; }
+.nav li a.selected{background:url(../images/navbg.png) no-repeat;}
+.nav li a:hover{display:block;background:#000;color:#fff;background: none repeat scroll 0% 0% rgb(43, 127, 181);}
+.nav li img{margin-top:10px;}
+.nav li a{display:block;}
+.nav a h2{font-size:14px;color:#d6e8f1;}
+.nav a:hover h2{color:#fff;}
+.topright ul{padding-top:15px; float:right; padding-right:12px;}
+.topright ul li{float:left; padding-left:9px; padding-right:9px; background:url(../images/line.gif) no-repeat right;}
+.topright ul li:last-child{background:none;}
+.topright ul li a{font-size:13px; color:#e9f2f7;}
+.topright ul li a:hover{color:#fff;}
+.topright ul li span{margin-top:2px;float:left;padding-right:3px;}
+.user{height:30px;background:url(../images/ub1.png) repeat-x;clear:both;margin-top:10px;float:right; margin-right:12px;border-radius:30px; behavior:url(js/pie.htc); white-space:nowrap;position:relative;}
+.user span{display:inline-block;padding-right:10px; background:url(../images/user.png) no-repeat 15px 10px; line-height:30px; font-size:14px;color:#b8ceda; padding-left:20px; padding-left:35px;}
+.user b{display:inline-block;width:20px;height:18px; background:url(../images/msg.png);text-align:center; font-weight:normal; color:#fff;font-size:14px;margin-right:13px; margin-top:7px; line-height:18px;}
+.user i{display:inline-block;margin-right:5px;font-style:normal;line-height:30px; font-size:14px;color:#b8ceda;}
+
+
+	

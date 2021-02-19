@@ -1,0 +1,23 @@
+.webwidget_rating_simple li {
+	line-height: 30px;
+	width: 28px;
+	height: 27px;
+	padding: 0px;
+	margin: 0px;
+	margin-left: 2px;
+	margin-top: -23px;
+	list-style: none;
+	float: left;
+	cursor: pointer;
+}
+.webwidget_rating_simple li span {
+	display: none;
+}
+h2 {
+	font-size:18px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.mm{
+	width:0px;
+	height:0px;
+}
